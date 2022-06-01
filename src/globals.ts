@@ -1,0 +1,3 @@
+function getShapes(): Shape[] {
+  return [];
+}
